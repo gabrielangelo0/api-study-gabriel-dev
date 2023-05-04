@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": false,
+  "tabWidth": 3,
+  "useTabs": false,
+  "printWidth": 140,
+  "importOrder": [
+    "^react",
+    "^@?\\w",
+    "^[./]"
+  ]
+}
